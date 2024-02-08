@@ -70,7 +70,7 @@ function HomePage() {
             <h1>Our Software & Web Development</h1>
             <h1>Services</h1>
         </div>
-        <div className='grid grid-cols-3 px-24 gap-8'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-3 px-24 gap-8'>
             <div className='bg-white text-center py-12 px-5'>
                 <div className='flex justify-center'>
                 <img className='w-16' src="/images/card1.webp" alt="" />
