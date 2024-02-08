@@ -1,0 +1,16 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+@media screen and (min-width: 1024px) and (max-width: 1158px){
+  .homepageContainer{
+    margin-top: 43px;
+  }
+}
+@media screen and (max-width: 978px){
+  .homepageContainer{
+    padding: 0;
+  }
+}
